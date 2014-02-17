@@ -1,5 +1,6 @@
 2/9/14
-Open Academy Report
+#### Open Academy Report
+
 - Day1: We met with our team mentors. The structure of mediawiki and the workings of how the wikimedia foundation worked.
 This included their development environments, their code review structure and explanations on several mediawiki concepts including the classes of the mediawiki code base, some details about php, and some basics on localizatioin.
 One of our mentors was there for about two hours before leaving us for the rest of the weekend. We kept a good relationship with Tyler, our other mentor.
