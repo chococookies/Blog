@@ -6,8 +6,8 @@ Played around with my mediawiki instance. Analyzed example extensions (or plugin
     
 - Are there any barriers to your goals?
     
-The schema of the database isn't finalized yet, but will be soon by our partners up north. It would be good to have a rough idea of the database so that we can work this next week on creating the first page for openbadges. This will be an "awarding" special page where special users can award other users some wiki badges. It would be useful to know the final contents to design a page tailored to it, and we should also communicate things we may need to create it.
+The schema of the database isn't finalized yet, but is the next order of business. It would be good to have a rough idea of the database so that we can work this next week on finishing the first page for openbadges. This is an "awarding" special page where special users can award other users some wiki badges. It would be useful to know the final contents to design a page tailored to it, and we should also communicate things we may need to create it.
     
 - What do you plan to accomplish for next week?
     
-Create the special awarding "special page" (non article page) for mediawiki. It needs to deal with permissions (only certain users can assign) selecting the badge, and associating the selected badge to the target user. I plan to get together with my local teammates to finish tackling the problem. In the meantime, there are other aspects of mediawiki (some diplay/visualization properties) I have yet to learn, so it would be good to keep working on those.
+Keep working on the the special awarding "special page" (non article page) for mediawiki. It needs to deal with permissions, listing users, selecting the badge, and associating the selected badge to the target user. I plan to get together with my local teammates to finish tackling the problem. In the meantime, there are other aspects of mediawiki (some diplay/visualization properties) I have yet to learn, so it would be good to keep working on those.
