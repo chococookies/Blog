@@ -10,4 +10,4 @@ The team hasn't figured out a way for us to upload images to sue internally for 
 
 - What do you plan to accomplish for next week?
 - 
-Going to work on AddBadge.php. The first most important part for badge-database interaciton, which allows the user to describe a new type/name of badge to add to the database.
+Going to work on AddBadge.php. The first most important part for badge-database interactioon, which allows the user to describe a new type/name of badge to add to the database.
