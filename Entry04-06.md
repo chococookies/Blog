@@ -1,7 +1,7 @@
 4/06/2014
 - What did you do in the last week?
 
-Worked on AddBadge.php. Tried some approaches to database interaction that added and removed new types of badges. Also fixing code commends from code reviews and reviewing some code on the side.
+Worked on AddBadge.php. Tried some approaches to database interaction that added and removed new types of badges. Also fixing code comments from code reviews and reviewing some code on the side.
 
 - Are there any barriers to your goals?
 
