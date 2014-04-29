@@ -2,7 +2,7 @@
 
     What did you do in the last week?
     
-Work on AddBadges was completed mostly and it's now in debugging phase. We fixed a permissions error on the file uploads, slightly modified the db schema. and I am working to make sure it meets mediawiki internationalization standards.
+Work on AddBadges was completed mostly and it's now in debugging phase. We fixed a permissions error on the file uploads, slightly modified the db schema, and I am working to make sure it meets mediawiki internationalization standards.
 
     Are there any barriers to your goals?
 
